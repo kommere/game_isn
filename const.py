@@ -1,0 +1,20 @@
+""" Constantes """
+
+LARGEUR_PERSO = 8
+HAUTEUR_PERSO = 8
+
+HAUTEUR_ECRAN = 1200
+LARGEUR_ECRAN = 1000
+HAUTEUR_BARRE = 10
+
+PADX = 1
+PADY = 1
+
+""" Differents etats du jeu """
+PAS_DE_CHOC = 1
+CHOC = 2
+HAUT = 3
+VITESSE = 4
+QUITTER = 8
+REJOUER = 9
+GAME_OVER = 10
